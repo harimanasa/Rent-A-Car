@@ -23,11 +23,6 @@ Backup URL: http://rentappelb-1163277443.us-east-2.elb.amazonaws.com/
 - Your trip is now complete. ☺
 * Terms and conditions applied.
 
-# Adjustment made by Professor's suggestion
-Because one of the team member's left the team and we are only 3 members in the team, Professor agreed to make the following adjustment.
-
-Skip Admin entering and updating individual vehicles and rental locations - instead insert sample data in the database and add or update using queries directly.
-
 [Admin queries here !](https://github.com/gopinathsjsu/sp20-cmpe-202-sec-03-team-project-202-doers/tree/master/Code/DBQueries)
 
 # Architecture - 3 Tier Web App
